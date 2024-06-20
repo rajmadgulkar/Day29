@@ -23,3 +23,14 @@ void main(){
                 }
         }
 }
+/*Enter array size:3
+Enter array elements:
+1
+2
+3
+Enter search element:2
+Element not found
+Element found
+Element not found*/
+
+// To overcome multiple printf statements we use flag
