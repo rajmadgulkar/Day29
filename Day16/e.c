@@ -13,7 +13,7 @@ void main(){
         }
 
         for(int i=0; i<size; i++){
-            arr2[i]=arr1[i];
+            arr2[i]=arr1[i]+100;
 
         }
         for(int i=0; i<size; i++){
