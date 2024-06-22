@@ -9,3 +9,5 @@ void main(){
     printf("%d\n",*ptr1+*ptr2);
     printf("%c\n",*ptr1+*ptr2);
 }
+// 195
+// �
