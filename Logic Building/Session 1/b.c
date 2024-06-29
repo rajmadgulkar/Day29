@@ -13,3 +13,9 @@ void main(){
         }
     }
 }
+/*
+Enter Start:30
+Enter End:80
+63
+42
+*/
