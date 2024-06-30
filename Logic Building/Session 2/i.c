@@ -6,9 +6,9 @@ void main(){
 
 char ch='A';
 
-for(int i=1;i<=rows;i++){
-    for(int j=1;j<=rows;j++){
-        if(j%2==1){
+for(int i=0;i<rows;i++){
+    for(int j=0;j<rows;j++){
+        if((i*3+j)%2==0){
             printf(" %c",ch);
             ch++;
 
@@ -20,3 +20,9 @@ for(int i=1;i<=rows;i++){
     printf("\n");
 }
 }
+/*
+ROWS:3
+ A b C
+ d E f
+ G h I
+ */
